@@ -2,6 +2,7 @@ __pycache__
 *.ckpt
 *.safetensors
 *.pth
+*.pyc
 /ESRGAN/*
 /SwinIR/*
 /repositories
@@ -32,3 +33,4 @@ notification.mp3
 /extensions
 /test/stdout.txt
 /test/stderr.txt
+/dream_artist
