@@ -34,3 +34,4 @@ notification.mp3
 /test/stdout.txt
 /test/stderr.txt
 /dream_artist
+/cache.json
